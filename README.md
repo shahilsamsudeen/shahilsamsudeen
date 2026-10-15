@@ -75,7 +75,6 @@ Je cherche une **alternance** en développement web, DevOps ou systèmes et rés
 - Décrocher une alternance en développement web / DevOps
 - Créer des applications web complètes, de bout en bout
 - Approfondir Linux, les réseaux et l'automatisation
-- Contribuer à des projets open source
 
 ---
 
