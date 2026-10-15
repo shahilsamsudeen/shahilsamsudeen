@@ -22,7 +22,7 @@ Je cherche actuellement une **alternance / un stage** en [développement web / f
 ## 📫 Me contacter
 
 - Portfolio : https://shahilsamsudeen.github.io/shahilpro/
-- LinkedIn : [www.linkedin.com/in/samsudeenshahil]
+- LinkedIn : www.linkedin.com/in/samsudeenshahil
 - Email : shahilsamsudeen@gmail.com
 
 ## 📊 Stats GitHub
